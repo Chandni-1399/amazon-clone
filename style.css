@@ -1,0 +1,87 @@
+                                                                                                           * {
+                                                                                                               font-family: system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+                                                                                                               font-size: large;
+                                                                                                           }
+                                                                                                           
+                                                                                                           .card-image {
+                                                                                                               height: 150px;
+                                                                                                               padding: 10px;
+                                                                                                           }
+                                                                                                           
+                                                                                                           .card {
+                                                                                                               margin-bottom: 10px;
+                                                                                                           }
+                                                                                                           
+                                                                                                           a {
+                                                                                                               font-size: 14px;
+                                                                                                               text-decoration: none;
+                                                                                                           }
+                                                                                                           
+                                                                                                           footer {
+                                                                                                               background-color: rgb(14, 14, 14);
+                                                                                                           }
+                                                                                                           
+                                                                                                           .circle {
+                                                                                                               border-radius: 30%;
+                                                                                                           }
+                                                                                                           
+                                                                                                           .bg {
+                                                                                                               background-color: rgb(14, 14, 14);
+                                                                                                           }
+                                                                                                           
+                                                                                                           .bg-1 {
+                                                                                                               color: rgb(255, 255, 255);
+                                                                                                           }
+                                                                                                           
+                                                                                                           .star {
+                                                                                                               color: rgb(255, 115, 0);
+                                                                                                           }
+                                                                                                           
+                                                                                                           .font-1 {
+                                                                                                               font-family: unset;
+                                                                                                           }
+                                                                                                           
+                                                                                                           .t {
+                                                                                                               font-size: small;
+                                                                                                           }
+                                                                                                           
+                                                                                                           .carousel-control-prev {
+                                                                                                               background-color: rgb(183, 186, 186);
+                                                                                                           }
+                                                                                                           
+                                                                                                           .carousel-control-next {
+                                                                                                               background-color: rgb(183, 186, 186);
+                                                                                                               /*background-image: url("data:image/svg+xml,%3csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 16 16' fill='%23fff'%3e%3cpath d='M8 0a8 8 0 1 1 0 16A8 8 0 0 1 8 0zM4.5 7.5a.5.5 0 0 0 0 1h5.793l-2.147 2.146a.5.5 0 0 0 .708.708l3-3a.5.5 0 0 0 0-.708l-3-3a.5.5 0 1 0-.708.708L10.293 7.5H4.5z")*/
+                                                                                                           }
+                                                                                                           
+                                                                                                           .pl {
+                                                                                                               padding-left: 30px;
+                                                                                                           }
+                                                                                                           
+                                                                                                           .text {
+                                                                                                               color: rgb(0, 0, 0);
+                                                                                                           }
+                                                                                                           
+                                                                                                           .border-1 {
+                                                                                                               border: solid 2px rgb(223, 223, 223);
+                                                                                                           }
+                                                                                                           
+                                                                                                           .txt {
+                                                                                                               font-size: large;
+                                                                                                               font-family: unset;
+                                                                                                           }
+                                                                                                           
+                                                                                                           .price {
+                                                                                                               font-size: 30px;
+                                                                                                               font-style: unset;
+                                                                                                           }
+                                                                                                           
+                                                                                                           select {
+                                                                                                               border-radius: 10px;
+                                                                                                               background-color: rgb(184, 214, 204);
+                                                                                                           }
+                                                                                                           
+                                                                                                           .product {
+                                                                                                               padding-left: 10px;
+                                                                                                               font-size: large;
+                                                                                                           }
